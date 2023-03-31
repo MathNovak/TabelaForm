@@ -1,0 +1,22 @@
+1°   Quero que crie uma tabela no banco de dados que aprendeu no curso 
+     com o nome de Clientes.
+
+     na tabela crie os campos
+
+     id , nome, cep, endereço, bairro, cidade, uf, telefone.
+
+     o campo id será a chave primária da tabela.
+
+2°  faça um formulário com os campos acima e crie um CRUD  (CONSULT, READ, UPDADE E DELETE) 
+    ou seja consulta, leitura, atualização e apagar os registros.
+
+3°  Abra uma conta no GITHUB e crie um repositório e faça a cópia do projeto.
+
+4°  Me passa a url do github para eu baixar na minha máquina para poder testa o programa aqui
+    na minha máquina.
+
+
+
+    usuario:
+    user 
+    123
